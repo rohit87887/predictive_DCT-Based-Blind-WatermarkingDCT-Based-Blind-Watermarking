@@ -1,6 +1,6 @@
 
 
-# 🖼️ **A Robust DCT Based Blind Watermarking
+# 🖼️ A Robust DCT Based Blind Watermarking
 Framework Using Hessenberg SVD Scrambling for
 Secure Color Image Authentication**
 
