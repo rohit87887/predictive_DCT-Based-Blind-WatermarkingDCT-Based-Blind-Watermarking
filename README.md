@@ -54,9 +54,8 @@ the images
 
 | Name                 | Register Number |
 | -------------------- | --------------- |
-| **Dinesh Kumar J B** | 23MIA1126       |
 | **Rohit**            | 23MIA1175       |
-| **Sanjay K**         | 23MIA1060       |
+
 
 ---
 
