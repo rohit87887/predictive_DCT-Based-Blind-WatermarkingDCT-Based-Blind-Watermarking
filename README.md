@@ -189,17 +189,18 @@ pip install numpy opencv-python matplotlib scipy pillow scikit-image
 ## 🖼️ **Output Screenshots**
 
 ### **Original Image**
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f79774df-6170-496b-bae4-eead86b4a212" />
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/aaae6415-2669-4d1e-a76d-4186e84bcd9d" />
 
-![alt text](/dataset/host_image.png)
-![alt text](/dataset/watermark.png)
 
 ### **Watermarked Image**
 
-![alt text](/results/watermarked_image.png)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ece78ee7-1bce-432b-a6bd-6f6bf76d416a" />
+
 
 ### **Extracted Watermark**
 
-![alt text](/results/extracted_watermark.png)
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/a14e4cfc-3885-42f1-ba25-ab717370b115" />
 
 ---
 
